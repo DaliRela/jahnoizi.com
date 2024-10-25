@@ -662,7 +662,8 @@ footer {
 }
 
 .new-podcast-sectionv2 {
-  background: url(../img/banner/support-and-listen.jpg) no-repeat center center;
+  /*background: url(../img/banner/support-and-listen.jpg) no-repeat center center;*/
+  background: url(../img/banner/jah_support.jpg) no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
   z-index: 1;
