@@ -1358,7 +1358,8 @@ footer {
 }
 
 .breadcrumnd-banner {
-  background: url(../img/banner/base.jpg) no-repeat center center;
+  /*background: url(../img/banner/base.jpg) no-repeat center center;*/
+  background: url(../img/banner/jah_base.jpg) no-repeat center center;
   background-size: cover;
   padding: 244px 2px 130px;
 }
