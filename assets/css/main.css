@@ -1395,7 +1395,8 @@ footer {
 }
 
 .hero-section-version1 {
-  background: url(../img/banner/bg-header-home-1.jpg) no-repeat center center;
+  /* background: url(../img/banner/bg-header-home-1.jpg) no-repeat center center; */
+  background: url(../img/banner/jah_noizi_header.jpg) no-repeat center center;
   background-size: cover;
   padding: 285px 5px 250px;
   z-index: 1;
